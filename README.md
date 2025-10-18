@@ -1,5 +1,8 @@
 # Keyword Extraction Django Application
 
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/bababe42-a8c4-4a47-9d80-f4a99efe7e05" />
+Paragraph:-Keyword extraction is a natural language processing (NLP) technique used to automatically identify the most significant words and phrases within a given text. The main goal of keyword extraction is to determine the key topics or themes that best represent the content of a document. This process helps reduce large volumes of text into a smaller set of meaningful terms, making information retrieval, indexing, and summarization much easier. Various methods can be used for keyword extraction, ranging from simple statistical approaches such as Term Frequency–Inverse Document Frequency (TF-IDF) to more advanced algorithms like RAKE, TextRank, and BERT-based models. In practical applications, keyword extraction is widely used in search engines, content recommendation systems, sentiment analysis, and automatic tagging. By identifying the most relevant terms, it enables machines and humans to quickly understand what a document is about without reading the entire text.
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BHOOMI764/keyword_extraction)
 
 ## Overview
@@ -94,4 +97,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Django framework for web development
 - scikit-learn for machine learning algorithms
 - NLTK for natural language processing
+
 - Academic paper datasets for training data##
